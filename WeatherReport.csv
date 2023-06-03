@@ -1,7 +1,0 @@
-Category,Average value,Min value,Max value,Median value
-Temperature (C),29.7333,27,32,30
-Wind (m/s),6.93333,2,15,2
-Humidity (%),35.3333,15,80,30
-Precipitation (%),8,0,40,0
-
-Most appropriate days,10
